@@ -5,7 +5,10 @@
 주제: 비행기, 숙소 예약 플랫폼<br>
 팀 인원: 6 명<br>
 개발 기간: 2024/02/05 ~ 2024/03/14<br>
-담당 서비스: User, Gateway, Lodging
+담당 서비스: User, Gateway, Lodging<br>
+
+느낀 점: <br>
+구현하는 것에만 집중하였기에 최적화에 대한 부분과 코드 최적화에 대해 많은 아쉬움이 남았습니다.
 
 개발환경:
 ![image](https://github.com/hyeon4869/MSA-Travel-Project/assets/119660070/3840b8d7-5efa-4bf2-9b1b-4fe3d950779f)
