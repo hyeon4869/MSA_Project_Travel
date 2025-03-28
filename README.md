@@ -3,12 +3,12 @@
 프로젝트에 대한 상세한 내용은 [여기에서 프로젝트 PPT를 확인](https://drive.google.com/file/d/1txUj6cpnz7t8zcJtdlrNlaaX05qqIQDN/view?usp=sharing)하세요.
 
 주제: 비행기, 숙소 예약 플랫폼<br>
-팀 인원: 6 명<br>
-개발 기간: 2024/02/15 ~ 2024/03/14<br>
-담당 서비스: User, Gateway, Lodging<br>
 
-느낀 점: <br>
-구현하는 것에만 집중하였기에 최적화에 대한 부분과 코드 최적화에 대해 많은 아쉬움이 남았습니다.
+- 프레임워크: Hibernate, Spring boot 2.3.1<br>
+- 언어: java 11<br>
+- 데이터베이스: Mysql<br>
+- 서버: 내장 톰캣(spring boot)<br>
+- 도구: maven, postman, docker, git, slack<br>
 
 개발환경:
 ![image](https://github.com/hyeon4869/MSA-Travel-Project/assets/119660070/3840b8d7-5efa-4bf2-9b1b-4fe3d950779f)
